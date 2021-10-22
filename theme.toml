@@ -2,7 +2,7 @@ border_width = 2
 margin = [8, 8]
 
 #colors
-default_border_color = "#222a70"
-floating_border_color = "#296d78"
-focused_border_color = "#1a16a6"
+default_border_color = "#000f99"
+floating_border_color = "#018c50"
+focused_border_color = "#21b0a4"
 
