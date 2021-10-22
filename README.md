@@ -6,6 +6,10 @@ Based on the Candy theme from ArcoLinux
 
 Couldn't find the artist of the background but got the image from [here](https://wallpapersafari.com/w/64Ims7)
 
+## Screenshots
+![screenshot1](./screenshots/ocean-night1.JPG)
+![screenshot1](./screenshots/ocean-night2.JPG)
+
 ## Requirements
 - Polybar
 - Picom
